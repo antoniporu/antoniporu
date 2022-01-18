@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antoniporu
-- 👀 I’m interested in taking new challenges
-- 🌱 I’m currently learning backend and mobile technologies
+- 👀 I’m interested in cutting edge technologies
+- 🌱 I’m currently learning Flutter and some others
 - 💞️ I’m looking to collaborate on open-source community
 - 📫 How to reach me ... antoniporu@gmail.com
 
